@@ -1,0 +1,376 @@
+[POI{tags{name=Residencial Grande Rio, tourism=hotel},
+ name=Residencial Grande Rio, 
+node{ id= 473890464 lat= 41.1583337 long= -8.6067738}
+, POI{tags{name=Hotel da Antas, tourism=hotel},
+ name=Hotel da Antas, 
+node{ id= 1334167611 lat= 41.1631124 long= -8.5894407}
+, POI{tags{source=http://residencialbrasiliaporto.com/, name=Residencial Brasilia, tourism=hotel},
+ name=Residencial Brasilia, 
+node{ id= 1263419262 lat= 41.1548136 long= -8.6162743}
+, POI{tags{internet_access:fee=no, stars=4, internet_access=wlan, name=Hotel das Artes, tourism=hotel, operator=EuroStars},
+ name=Hotel das Artes, 
+node{ id= 1234463035 lat= 41.1500758 long= -8.6208234}
+, POI{tags{name=Sheraton Porto Hotel and SPA, tourism=hotel},
+ name=Sheraton Porto Hotel and SPA, 
+node{ id= 1267424177 lat= 41.1612264 long= -8.6405952}
+, POI{tags{name=Hotel Tiara Park Atlantic, tourism=hotel},
+ name=Hotel Tiara Park Atlantic, 
+node{ id= 1243809301 lat= 41.1600138 long= -8.6407712}
+, POI{tags{name=Porto Palácio Hotel, tourism=hotel},
+ name=Porto Palácio Hotel, 
+node{ id= 1243809335 lat= 41.1593253 long= -8.638765}
+, POI{tags{name=HF Tuela Porto, tourism=hotel},
+ name=HF Tuela Porto, 
+node{ id= 1520394534 lat= 41.154501 long= -8.630623}
+, POI{tags{name=HF Tuela Ala Sul, tourism=hotel, addr:housenumber=166},
+ name=HF Tuela Ala Sul, 
+node{ id= 1524053771 lat= 41.154176 long= -8.6305659}
+, POI{tags{name=AC Hotel, FIXME=colocar no edifício correto; estava colado à estrada, tourism=hotel},
+ name=AC Hotel, 
+node{ id= 1731168033 lat= 41.1644542 long= -8.5830369}
+, POI{tags{source=survey, name=Dom Henrique, tourism=hotel},
+ name=Dom Henrique, 
+node{ id= 2046423486 lat= 41.1522452 long= -8.6071816}
+, POI{tags{name=Hotel Nave, tourism=hotel},
+ name=Hotel Nave, 
+node{ id= 2053575785 lat= 41.1522549 long= -8.597212}
+, POI{tags{name=Hotel Vila Galé, tourism=hotel},
+ name=Hotel Vila Galé, 
+node{ id= 2054895260 lat= 41.15052 long= -8.5982259}
+, POI{tags{name=Quality Inn Portus Cale, tourism=hotel},
+ name=Quality Inn Portus Cale, 
+node{ id= 2036648868 lat= 41.1592233 long= -8.6362005}
+, POI{tags{name=HF Ipanema Port, tourism=hotel},
+ name=HF Ipanema Port, 
+node{ id= 2456828951 lat= 41.152609 long= -8.629923}
+, POI{tags{name=HF Fénix Porto, tourism=hotel},
+ name=HF Fénix Porto, 
+node{ id= 2460370957 lat= 41.154781 long= -8.630576}
+, POI{tags{internet_access:fee=no, website=http://www.hoteldamusica.com/, smoking=no, internet_access=wlan, name=Hotel da Música, tourism=hotel},
+ name=Hotel da Música, 
+node{ id= 2505165672 lat= 41.1562604 long= -8.6291822}
+, POI{tags{building=yes, name=Hotel Mercure Império, tourism=hotel},
+ name=Hotel Mercure Império, 
+node{ id= 210336694 lat= 41.14544864666667 long= -8.607962813333334}
+, POI{tags{building=yes, name=Hotel Intercontinental Palácio das Cardosas, tourism=hotel, addr:housename=Palácio das Cardosas, old_name=Convento dos Lóios},
+ name=Hotel Intercontinental Palácio das Cardosas, 
+node{ id= 210856984 lat= 41.1458468375 long= -8.6114250125}
+, POI{tags{building=yes, name=Hotel Teatro, tourism=hotel},
+ name=Hotel Teatro, 
+node{ id= 214833465 lat= 41.1465037909091 long= -8.609216145454546}
+, POI{tags{building=yes, name=Hotel Quality Inn, tourism=hotel},
+ name=Hotel Quality Inn, 
+node{ id= 210839130 lat= 41.14576319333333 long= -8.607732633333336}
+, POI{tags{building=yes, name=Hotel Peninsular, tourism=hotel},
+ name=Hotel Peninsular, 
+node{ id= 210328145 lat= 41.14644328333333 long= -8.610346633333334}
+, POI{tags{building=yes, name=H. Bragança, tourism=hotel},
+ name=H. Bragança, 
+node{ id= 211058396 lat= 41.14554148333333 long= -8.6135453}
+, POI{tags{building=yes, name=Grande Hotel de Paris, tourism=hotel},
+ name=Grande Hotel de Paris, 
+node{ id= 215187152 lat= 41.1470876631579 long= -8.612757668421054}
+, POI{tags{building=yes, name=Hotel Internacional, tourism=hotel},
+ name=Hotel Internacional, 
+node{ id= 215191855 lat= 41.14735671428571 long= -8.6123364}
+, POI{tags{building=yes, name=Hotel Infante de Sagres, tourism=hotel},
+ name=Hotel Infante de Sagres, 
+node{ id= 215193691 lat= 41.14776174 long= -8.612809935}
+, POI{tags{building=yes, name=Grande Hotel do Porto, tourism=hotel},
+ name=Grande Hotel do Porto, 
+node{ id= 224749649 lat= 41.14807857142857 long= -8.607241728571429}
+, POI{tags{building=yes, name=Hotel Chique, tourism=hotel},
+ name=Hotel Chique, 
+node{ id= 225566609 lat= 41.1485724875 long= -8.6104150625}
+, POI{tags{building=yes, name=Albergaria São João, tourism=hotel},
+ name=Albergaria São João, 
+node{ id= 278570717 lat= 41.14954527142857 long= -8.6039739}
+, POI{tags{name=Portucale, amenity=restaurant},
+ name=Portucale, 
+node{ id= 416434404 lat= 41.1556861 long= -8.6022227}
+, POI{tags{name=Scala, amenity=restaurant},
+ name=Scala, 
+node{ id= 416885399 lat= 41.1607731 long= -8.5922552}
+, POI{tags{name=Vitória, amenity=restaurant},
+ name=Vitória, 
+node{ id= 417992583 lat= 41.160823 long= -8.5917705}
+, POI{tags{name=Barrigas, amenity=restaurant},
+ name=Barrigas, 
+node{ id= 418091554 lat= 41.1590503 long= -8.5975147}
+, POI{tags{name=Al Forno, amenity=restaurant},
+ name=Al Forno, 
+node{ id= 418198053 lat= 41.166263 long= -8.5932339}
+, POI{tags{name=Cidade, amenity=restaurant},
+ name=Cidade, 
+node{ id= 418198057 lat= 41.1656169 long= -8.5982894}
+, POI{tags{name=Restaurante A Brasileira, amenity=restaurant},
+ name=Restaurante A Brasileira, 
+node{ id= 1277590626 lat= 41.146914 long= -8.6093694}
+, POI{tags{name=Ginjal do Porto, amenity=restaurant},
+ name=Ginjal do Porto, 
+node{ id= 1295560714 lat= 41.1533143 long= -8.6079537}
+, POI{tags{addr:postcode=4000-208, cuisine=indian, name=Indian Tandoori, amenity=restaurant, addr:street=Rua de Fernandes Tomás, addr:housenumber=234},
+ name=Indian Tandoori, 
+node{ id= 1310374772 lat= 41.1489603 long= -8.6014366}
+, POI{tags{cuisine=regional, name=Casa Ferraz, amenity=restaurant},
+ name=Casa Ferraz, 
+node{ id= 1329457300 lat= 41.1662738 long= -8.5876962}
+, POI{tags{cuisine=regional, name=Restaurante Atleta, amenity=restaurant},
+ name=Restaurante Atleta, 
+node{ id= 1333616035 lat= 41.1661513 long= -8.5881337}
+, POI{tags{cuisine=regional, name=Restaurante Manhoso, amenity=restaurant},
+ name=Restaurante Manhoso, 
+node{ id= 1333616039 lat= 41.1661038 long= -8.5882219}
+, POI{tags{cuisine=regional, name=Convivio, amenity=restaurant},
+ name=Convivio, 
+node{ id= 1524059834 lat= 41.154478 long= -8.630924}
+, POI{tags{cuisine=regional, name=Capa Negra II, amenity=restaurant},
+ name=Capa Negra II, 
+node{ id= 1694880588 lat= 41.1524498 long= -8.6304862}
+, POI{tags{name=Casa Ferreira, amenity=restaurant, addr:street=Rua do Almada, addr:housenumber=619},
+ name=Casa Ferreira, 
+node{ id= 1827331911 lat= 41.1528568 long= -8.6121386}
+, POI{tags{phone=+351 225369350, website=http://www.restaurantecaetano.com, name=Caetano, amenity=restaurant, addr:housenumber=1194},
+ name=Caetano, 
+node{ id= 2006347255 lat= 41.1599726 long= -8.5923397}
+, POI{tags{cuisine=chinese, name=Amizade, amenity=restaurant},
+ name=Amizade, 
+node{ id= 2044404400 lat= 41.1616741 long= -8.602209}
+, POI{tags{addr:postcode=4050-284, cuisine=tapas, name=La Bohème, contact:website=www.laboheme.com.pt, amenity=restaurant, addr:street=Rua das Galerias de Paris, addr:city=Porto, addr:housenumber=40},
+ name=La Bohème, 
+node{ id= 2196398258 lat= 41.1468174 long= -8.6144802}
+, POI{tags{cuisine=seafood, name=Aquário, amenity=restaurant, addr:street=Rua de Rodrigues Sampaio},
+ name=Aquário, 
+node{ id= 2204099863 lat= 41.1487203 long= -8.6100613}
+, POI{tags{name=Flor dos Congregados, amenity=restaurant, addr:street=Viela dos Congregados},
+ name=Flor dos Congregados, 
+node{ id= 2204099919 lat= 41.1470061 long= -8.6102338}
+, POI{tags{name=Novo Paris, amenity=restaurant, addr:street=Viela dos Congregados},
+ name=Novo Paris, 
+node{ id= 2204099963 lat= 41.1472464 long= -8.6104752}
+, POI{tags{name=A Regaleira, amenity=restaurant, addr:street=Rua do Bonjardim},
+ name=A Regaleira, 
+node{ id= 2204099934 lat= 41.1470752 long= -8.6096323}
+, POI{tags{name=Conga, amenity=restaurant, addr:street=Rua do Bonjardim},
+ name=Conga, 
+node{ id= 2204099894 lat= 41.1489026 long= -8.6092912}
+, POI{tags{name=Neptuno, amenity=restaurant, addr:street=Rua de Rodrigues Sampaio},
+ name=Neptuno, 
+node{ id= 2204100023 lat= 41.1483436 long= -8.6097126}
+, POI{tags{cuisine=fish_and_chips, name=Pedro dos Frangos, amenity=restaurant, addr:street=Rua do Bonjardim},
+ name=Pedro dos Frangos, 
+node{ id= 2204099973 lat= 41.1488219 long= -8.6095836}
+, POI{tags{name=Porto Antigo, amenity=restaurant, addr:street=Rua de Cimo de Vila},
+ name=Porto Antigo, 
+node{ id= 2204179819 lat= 41.1452206 long= -8.6077286}
+, POI{tags{name=Viseu no Porto, amenity=restaurant, addr:street=Rua da Madeira},
+ name=Viseu no Porto, 
+node{ id= 2204179947 lat= 41.1459574 long= -8.6099824}
+, POI{tags{name=Churrasqueira Brasa, amenity=restaurant},
+ name=Churrasqueira Brasa, 
+node{ id= 2208856340 lat= 41.1455221 long= -8.6076113}
+, POI{tags{name=Fado das Castas, amenity=restaurant},
+ name=Fado das Castas, 
+node{ id= 2210724608 lat= 41.1454375 long= -8.6130561}
+, POI{tags{name=O Escondidinho, amenity=restaurant},
+ name=O Escondidinho, 
+node{ id= 2232562426 lat= 41.1467014 long= -8.6060363}
+, POI{tags{cuisine=kebab, name=Istambul, amenity=restaurant},
+ name=Istambul, 
+node{ id= 2232501634 lat= 41.1456129 long= -8.6054549}
+, POI{tags{name=Irmãos Unidos, amenity=restaurant},
+ name=Irmãos Unidos, 
+node{ id= 2232506766 lat= 41.1457967 long= -8.6051504}
+, POI{tags{name=O Caseiro, amenity=restaurant},
+ name=O Caseiro, 
+node{ id= 2232506773 lat= 41.1458502 long= -8.6050285}
+, POI{tags{name=Churr. Icaraí, amenity=restaurant},
+ name=Churr. Icaraí, 
+node{ id= 2243738313 lat= 41.1471261 long= -8.6089321}
+, POI{tags{name=O Rápido, amenity=restaurant},
+ name=O Rápido, 
+node{ id= 2245105109 lat= 41.145988 long= -8.609722}
+, POI{tags{name=Zé Bota, amenity=restaurant},
+ name=Zé Bota, 
+node{ id= 2247361525 lat= 41.1468578 long= -8.6171437}
+, POI{tags{name=Churrasqueira do Padrão, amenity=restaurant},
+ name=Churrasqueira do Padrão, 
+node{ id= 2321280036 lat= 41.1467694 long= -8.6026567}
+, POI{tags{cuisine=italian, name=Roma, amenity=restaurant},
+ name=Roma, 
+node{ id= 2321280046 lat= 41.1468734 long= -8.602705}
+, POI{tags{name=Mesa Antiga, amenity=restaurant},
+ name=Mesa Antiga, 
+node{ id= 2321280058 lat= 41.1465674 long= -8.603456}
+, POI{tags{name=Cafecell, amenity=restaurant},
+ name=Cafecell, 
+node{ id= 2321280072 lat= 41.1469552 long= -8.6024515}
+, POI{tags{name=Bufee do Padrão, amenity=restaurant},
+ name=Bufee do Padrão, 
+node{ id= 2321280078 lat= 41.1470148 long= -8.6022209}
+, POI{tags{name=Don Grilon, amenity=restaurant},
+ name=Don Grilon, 
+node{ id= 2321280041 lat= 41.1466327 long= -8.6043438}
+, POI{tags{cuisine=pizza, name=San Martino, amenity=restaurant},
+ name=San Martino, 
+node{ id= 2321280056 lat= 41.1465751 long= -8.6041279}
+, POI{tags{name=Abadia do Porto, amenity=restaurant},
+ name=Abadia do Porto, 
+node{ id= 2335459054 lat= 41.1480789 long= -8.6079661}
+, POI{tags{name=PortoBeer, amenity=restaurant},
+ name=PortoBeer, 
+node{ id= 2349195529 lat= 41.1593323 long= -8.6383638}
+, POI{tags{name=Caçulinha, amenity=restaurant},
+ name=Caçulinha, 
+node{ id= 2377948776 lat= 41.149029 long= -8.6027981}
+, POI{tags{name=Oásis, amenity=restaurant},
+ name=Oásis, 
+node{ id= 2377948786 lat= 41.147187 long= -8.6026063}
+, POI{tags{name=O Zé, amenity=restaurant},
+ name=O Zé, 
+node{ id= 2377953832 lat= 41.1481494 long= -8.6040949}
+, POI{tags{name=O Sítio, amenity=restaurant},
+ name=O Sítio, 
+node{ id= 2377953834 lat= 41.1474748 long= -8.6029443}
+, POI{tags{name=Murça no Potro, amenity=restaurant},
+ name=Murça no Potro, 
+node{ id= 2377958695 lat= 41.146991 long= -8.6037865}
+, POI{tags{name=O Romano, amenity=restaurant},
+ name=O Romano, 
+node{ id= 2377971358 lat= 41.1480484 long= -8.6050686}
+, POI{tags{name=Assador Típico, amenity=restaurant},
+ name=Assador Típico, 
+node{ id= 2415800693 lat= 41.1476339 long= -8.6209322}
+, POI{tags{cuisine=regional, name=Antunes, amenity=restaurant},
+ name=Antunes, 
+node{ id= 2449502657 lat= 41.1518027 long= -8.6083651}
+, POI{tags{cuisine=portuguese, name=Al Porto, amenity=restaurant},
+ name=Al Porto, 
+node{ id= 2455238844 lat= 41.158306 long= -8.632104}
+, POI{tags{cuisine=portuguese, name=Nova Europa, amenity=restaurant},
+ name=Nova Europa, 
+node{ id= 2455241323 lat= 41.1584731 long= -8.6332652}
+, POI{tags{name=Clube da Gula, amenity=restaurant},
+ name=Clube da Gula, 
+node{ id= 2511217382 lat= 41.148663 long= -8.6203891}
+, POI{tags{source=OpenStreetBugs, name=Big Ben, amenity=restaurant},
+ name=Big Ben, 
+node{ id= 2517562439 lat= 41.1537036 long= -8.6077701}
+, POI{tags{name=Toast, amenity=restaurant},
+ name=Toast, 
+node{ id= 2651081967 lat= 41.1583076 long= -8.6321228}
+, POI{tags{name=Cantina da FLUP, amenity=restaurant},
+ name=Cantina da FLUP, 
+node{ id= 2671549057 lat= 41.1505998 long= -8.6312345}
+, POI{tags{addr:postcode=4000, phone=+351 22 550 2722, cuisine=regional, name=Francesinha Café, amenity=restaurant, addr:street=Rua da Alegria, addr:housename=Café Francesinha, addr:city=Porto, addr:housenumber=946},
+ name=Francesinha Café, 
+node{ id= 2677898560 lat= 41.1602093 long= -8.6006813}
+, POI{tags{addr:postcode=4050-613, phone=+351 22 200 0395, cuisine=regional, name=O Afonso, amenity=restaurant, addr:street=Rua da Torrinha, addr:housename=O Afonso, addr:city=Porto, addr:housenumber=219},
+ name=O Afonso, 
+node{ id= 2678006436 lat= 41.152592 long= -8.6213595}
+, POI{tags{addr:postcode=4150, phone=+ 351 226 092 003, cuisine=regional, website=http://www.bbgourmet.net/, name=bbGourmet Maiorca, amenity=restaurant, addr:street=Rua de António Cardoso, addr:housename=bbGourmet Maiorca, addr:city=Porto, addr:housenumber=301},
+ name=bbGourmet Maiorca, 
+node{ id= 2678013028 lat= 41.1569821 long= -8.6418875}
+, POI{tags{addr:postcode=4150-177, phone=+351 22 608 4442, cuisine=regional, website=http://cervejariagaliza.com/, name=Cervejaria Galiza, amenity=restaurant, addr:street=Rua do Campo Alegre, addr:housename=Cervejaria Galiza, addr:city=Porto, addr:housenumber=55},
+ name=Cervejaria Galiza, 
+node{ id= 2678123782 lat= 41.1523537 long= -8.6280901}
+, POI{tags{name=Cantina da FDUP, amenity=restaurant},
+ name=Cantina da FDUP, 
+node{ id= 2725099393 lat= 41.1525808 long= -8.615527}
+, POI{tags{name=Garfos & Letras, amenity=restaurant},
+ name=Garfos & Letras, 
+node{ id= 2730057471 lat= 41.146371 long= -8.6139359}
+, POI{tags{name=Real Indiana, amenity=restaurant},
+ name=Real Indiana, 
+node{ id= 2730062608 lat= 41.1469606 long= -8.6136221}
+, POI{tags{name=Aduela, amenity=restaurant},
+ name=Aduela, 
+node{ id= 2730418376 lat= 41.1488896 long= -8.6150275}
+, POI{tags{name=Migalha, amenity=restaurant},
+ name=Migalha, 
+node{ id= 2730484782 lat= 41.1503276 long= -8.6115353}
+, POI{tags{building=yes, name=Adega Vila Meã, amenity=restaurant},
+ name=Adega Vila Meã, 
+node{ id= 210896199 lat= 41.1452651 long= -8.612742842857143}
+, POI{tags{building=yes, name=Casa Costa, amenity=restaurant},
+ name=Casa Costa, 
+node{ id= 211110332 lat= 41.145475999999995 long= -8.6146772}
+, POI{tags{building=yes, name=W do Wilson, amenity=restaurant},
+ name=W do Wilson, 
+node{ id= 215184763 lat= 41.146623033333334 long= -8.6134305}
+, POI{tags{building=yes, name=Estrela d'Ouro, amenity=restaurant},
+ name=Estrela d'Ouro, 
+node{ id= 215188807 lat= 41.14738094999999 long= -8.613176699999999}
+, POI{tags{building=yes, name=Companhia dos Morfes, amenity=restaurant},
+ name=Companhia dos Morfes, 
+node{ id= 215192158 lat= 41.1474479375 long= -8.61263045}
+, POI{tags{building=yes, name=Larica, amenity=restaurant},
+ name=Larica, 
+node{ id= 215184778 lat= 41.146103585714286 long= -8.613492542857141}
+, POI{tags{building=yes, name=Flor do Parque, amenity=restaurant},
+ name=Flor do Parque, 
+node{ id= 215316369 lat= 41.14679571666667 long= -8.61745025}
+, POI{tags{building=yes, name=A Tasquinha, amenity=restaurant},
+ name=A Tasquinha, 
+node{ id= 215330290 lat= 41.14712766666667 long= -8.617221666666667}
+, POI{tags{building=yes, name=Churr. Papagaio, amenity=restaurant},
+ name=Churr. Papagaio, 
+node{ id= 215328345 lat= 41.146983727272726 long= -8.616969636363637}
+, POI{tags{building=yes, name=Grão-de-bico, amenity=restaurant},
+ name=Grão-de-bico, 
+node{ id= 215330291 lat= 41.146945239999994 long= -8.617385780000001}
+, POI{tags{building=yes, name=Calhambeque, amenity=restaurant},
+ name=Calhambeque, 
+node{ id= 215330289 lat= 41.14714028333333 long= -8.617096349999999}
+, POI{tags{building=yes, name=Pólo Norte, amenity=restaurant},
+ name=Pólo Norte, 
+node{ id= 215203412 lat= 41.14795599375001 long= -8.614020525}
+, POI{tags{building=yes, name=Loios, amenity=restaurant},
+ name=Loios, 
+node{ id= 215195093 lat= 41.147562785714285 long= -8.612330485714285}
+, POI{tags{building=yes, name=Pontual, amenity=restaurant},
+ name=Pontual, 
+node{ id= 227885077 lat= 41.14958359999999 long= -8.611963339999999}
+, POI{tags{building=yes, name=Marinheiro, amenity=restaurant},
+ name=Marinheiro, 
+node{ id= 229174894 lat= 41.14843248 long= -8.612644560000001}
+, POI{tags{building=yes, name=Churr. Moura, amenity=restaurant},
+ name=Churr. Moura, 
+node{ id= 229174893 lat= 41.14830818 long= -8.61221854}
+, POI{tags{building=yes, name=Bibóporto, amenity=restaurant},
+ name=Bibóporto, 
+node{ id= 229202342 lat= 41.1487509125 long= -8.613897487500001}
+, POI{tags{building=yes, name=O Ernesto, amenity=restaurant},
+ name=O Ernesto, 
+node{ id= 229210123 lat= 41.14958826 long= -8.613190480000002}
+, POI{tags{building=yes, name=Capoeira dos Leões, amenity=restaurant},
+ name=Capoeira dos Leões, 
+node{ id= 229288706 lat= 41.14757025714285 long= -8.615101157142858}
+, POI{tags{building=yes, name=O Golfinho, amenity=restaurant},
+ name=O Golfinho, 
+node{ id= 229320133 lat= 41.14859416 long= -8.61505182}
+, POI{tags{building=yes, name=Expresso, amenity=restaurant},
+ name=Expresso, 
+node{ id= 229320128 lat= 41.1485224 long= -8.615393059999999}
+, POI{tags{building=yes, name=Bokas Snackbar, amenity=restaurant},
+ name=Bokas Snackbar, 
+node{ id= 229692412 lat= 41.14782341428572 long= -8.615362514285714}
+, POI{tags{building=yes, name=Casa Viúva, amenity=restaurant},
+ name=Casa Viúva, 
+node{ id= 229392460 lat= 41.14805424 long= -8.615603839999999}
+, POI{tags{building=yes, name=Romão, amenity=restaurant},
+ name=Romão, 
+node{ id= 229392459 lat= 41.14799025 long= -8.615547216666666}
+, POI{tags{building=yes, name=Lagostim, amenity=restaurant},
+ name=Lagostim, 
+node{ id= 229174901 lat= 41.14838784 long= -8.6124636}
+, POI{tags{building=yes, name=Máximo, amenity=restaurant},
+ name=Máximo, 
+node{ id= 229276882 lat= 41.1487958 long= -8.614513183333331}
+, POI{tags{building=yes, name=O Perfume, amenity=restaurant},
+ name=O Perfume, 
+node{ id= 262472773 lat= 41.146537377777776 long= -8.6310075}
+, POI{tags{building=yes, name=Artemísia, amenity=restaurant},
+ name=Artemísia, 
+node{ id= 262948525 lat= 41.14991163333333 long= -8.623196383333333}
+]
